@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\bin\Debug\netcoreapp3.1\Aula22Static.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula22Static\obj\Debug\netcoreapp3.1\Aula22Static.pdb
